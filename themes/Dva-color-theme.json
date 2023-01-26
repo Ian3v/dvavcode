@@ -205,7 +205,7 @@
 			"settings": {
 				"fontStyle": "italic bold",
 				// "foreground": "#26fd99"
-				"foreground": "#ff189f"
+				"foreground": "#e8cd32"
 
 // 
 			}
@@ -278,7 +278,7 @@
 				"fontStyle": "italic bold",
 				// "foreground": "#c5f73b"
 				// "foreground": "#c5f73b"
-				"foreground": "#ec5eff"
+				"foreground": "#b66eff"
 				// "foreground": "#3bffde"
 
 
