@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">DONATION - BTC</h2>
+<h2 align="left">- DONATION - BTC - </h2>
 
 ###
 
